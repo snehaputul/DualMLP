@@ -1,4 +1,4 @@
-# DualNet
+# DualMLP
 
 
 Primary contact: [Sneha Paul](mailto:sneha.paul@mail.concordia.ca)
@@ -13,13 +13,10 @@ Primary contact: [Sneha Paul](mailto:sneha.paul@mail.concordia.ca)
 ## Install
 
 ```bash
-# step 1. clone this repo
-git clone https://github.com/snehaputul/DualNet
-cd DualNet
+# clone this repo
+git clone https://github.com/snehaputul/DualMLP
+cd DualMLP
 
-# step 2. create a conda virtual environment and activate it
-conda env create
-conda activate dualnet
 ```
 
 
