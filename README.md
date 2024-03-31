@@ -1,5 +1,10 @@
 # DualMLP
 
+Official implementation of the paper [DualMLP: a two-stream fusion model for 3D point cloud classification](https://link.springer.com/article/10.1007/s00371-023-03114-3).
+
+**3D Point Cloud Classification**
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dualmlp-a-two-stream-fusion-model-for-3d/3d-point-cloud-classification-on-scanobjectnn)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-scanobjectnn?p=dualmlp-a-two-stream-fusion-model-for-3d)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dualmlp-a-two-stream-fusion-model-for-3d/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=dualmlp-a-two-stream-fusion-model-for-3d)
 
 Primary contact: [Sneha Paul](mailto:sneha.paul@mail.concordia.ca)
 
